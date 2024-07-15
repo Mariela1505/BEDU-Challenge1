@@ -16,7 +16,7 @@ Te presentamos nuestro **"Curso de Alimentación Sana"**, diseñado para que apr
 - **Cómo desintoxicar tu cuerpo** y mejorar tu balance proteico.
 - **Consejos prácticos** para prevenir enfermedades crónicas y mejorar tu bienestar general.
 
-![Curso de Alimentación Sana](https://cdn.pixabay.com/photo/2017/03/27/13/54/bread-2178874_1280.jpg)
+![Curso de Alimentación Sana](Imagenes/bread-2178874_1280.jpg)
 
 ### Beneficios que Obtendrás:
 - **Más energía** y mejor rendimiento diario.

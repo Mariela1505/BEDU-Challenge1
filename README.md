@@ -1,8 +1,12 @@
-# BEDU-Challenge1
+# BEDU-Challenge 1
 Repositorio muestra para Challenge1 IA_Creativa BEDU 2024
 
 Campaña de marketing para un Curso de alimentación saludable
-### Equipo 36: -Emiliano Davalos-Karla Noriega-Caro Karam-Mariela Ruiz
+### Equipo 36:
+- Emiliano Davalos - angel.emiliano.dv@gmail.com
+- Karla Noriega - karla.noriegate@gmail.com
+- Caro Karam - carokaram13@gmail.com
+- Mariela Ruiz Ruizmariela.ruiz@lottuseducation.com
 
 #
 ## REDES SOCIALES (4 etapas)

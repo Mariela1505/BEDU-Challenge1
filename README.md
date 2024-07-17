@@ -4,7 +4,60 @@ Repositorio muestra para Challenge1 IA_Creativa BEDU 2024
 Campaña de marketing para un Curso de alimentación saludable
 ### Equipo 36: -Emiliano Davalos-Karla Noriega-Caro Karam-Mariela Ruiz
 
-## Correos Electronicos (4 etapas)
+#
+## REDES SOCIALES (4 etapas)
+
+## Lanzamiento (16 de julio; Etapa 1)
+
+### Instagram Post 1:
+🌟 ¡Descubre el secreto de una alimentación saludable y deliciosa! 🌟 ¿Quieres cuidar tu salud, tu peso y tu cerebro mientras disfrutas de comidas exquisitas? 🍽️ Hoy lanzamos nuestra campaña de alimentación saludable, antiinflamatoria y equilibrada. ¡Sigue nuestras publicaciones para conocer más! 💚 #SaludableYDelicioso #CuidateConSabor
+![Curso Alimentacion Sana](Imagenes/tray-2546077_1280.jpg)
+
+
+## Primera Semana (Etapa 2)
+
+### Instagram Post 2:
+🍏 ¡Empieza tu semana con energía y salud! 🍏 Una alimentación equilibrada puede marcar la diferencia en tu bienestar diario. Descubre recetas y tips para mantener tu cuerpo y mente en óptimas condiciones. 🌱✨ #AlimentacionSaludable #VidaEquilibrada #BienestarDiario
+![Curso Alimentacion Sana](Imagenes/salad-2756467_1280.jpg)
+
+### Instagram Story:
+¿Sabías que una dieta antiinflamatoria puede ayudarte a prevenir enfermedades y mejorar tu calidad de vida? 🤔💪 ¡Swipe up para descubrir cómo! #AntiInflamatoria #PrevencionSaludable
+
+## Segunda Semana (Etapa 3)
+
+### Instagram Post 3:
+🥑 ¡No tienes que sacrificar el sabor para comer saludable! 🥑 Te compartimos una receta deliciosa y fácil de preparar que te ayudará a mantenerte en forma y cuidar tu salud. ¿Listo para cocinar? 👩‍🍳👨‍🍳 #RecetaSaludable #SaborEquilibrado
+![Curso Alimentacion Sana](Imagenes/meal-5232255_1280.jpg)
+
+### Instagram Reel:
+🎥 ¡Mira cómo preparamos un platillo nutritivo y delicioso en menos de 10 minutos! ⏱️✨ Ideal para cualquier edad y perfecto para mantener tus índices glucémicos en balance. #ComidaSaludable #RápidoYDelicioso
+
+## Tercera Semana (Etapa 3)
+
+### Instagram Post 4:
+🌿 La salud comienza con lo que pones en tu plato. 🌿 Acompáñanos en esta semana llena de tips para una alimentación saludable y equilibrada. Cuida tu cuerpo y mente mientras disfrutas de cada bocado. 🍴💚 #CuidandoTuSalud #EquilibrioEnTuPlato
+
+### Instagram Carousel:
+Desliza para conocer los beneficios de una alimentación antiinflamatoria 🌟👆 
+1️⃣ Reduce la inflamación 
+2️⃣ Mejora tu salud cerebral 
+3️⃣ Mantén un peso saludable 
+4️⃣ Disfruta de comidas deliciosas y nutritivas 
+#SaludIntegral #BeneficiosSaludables
+
+## Cierre (16 de agosto; Etapa 4)
+
+### Instagram Post 5:
+🚀 ¡Gracias por acompañarnos en este viaje hacia una vida más saludable! 🚀 Esperamos que hayas disfrutado de nuestras recetas y consejos. Recuerda, una alimentación saludable y equilibrada es clave para un bienestar integral. 💚✨ #CierreSaludable #VidaEnBalance #ComerDelicioso
+![Curso Alimentacion Sana](Imagenes/spaghetti-6639970_1280.jpg)
+
+### Instagram Story:
+📢 ¡Último día de nuestra campaña! No te pierdas los últimos tips y recetas para seguir cuidando tu salud. Gracias por ser parte de nuestra comunidad saludable. 🌱💫 #CierreDeCampaña #SaludYBienestar
+
+Con estos copies, podrás mantener a tu audiencia interesada y comprometida durante toda la campaña. ¡Buena suerte!
+
+#
+## CORREOS ELECTRONICOS (4 etapas)
 
 
 ### Lanzamiento (16 de julio; Etapa 1)

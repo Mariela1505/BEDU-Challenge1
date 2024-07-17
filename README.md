@@ -8,6 +8,8 @@ Campaña de marketing para un Curso de alimentación saludable
 - Caro Karam - carokaram13@gmail.com
 - Mariela Ruiz Ruizmariela.ruiz@lottuseducation.com
 
+[Presentación PPTX](https://docs.google.com/presentation/d/1_EFYozhE2iBRR0Pb9svccDh6K4jzkVQ3LxI81pBnM1Q/edit?usp=sharing)
+
 #
 ## REDES SOCIALES (4 etapas)
 
